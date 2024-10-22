@@ -132,7 +132,8 @@
                 "partOfMinimalUsableSystem": true
             },
             "extension-key": "typo3_console",
-            "ignore-as-root": false
+            "ignore-as-root": false,
+            "skip-ter-packagist-import": true
         },
         "patches": {
             "typo3/cms-core": {
