@@ -9,7 +9,7 @@
             "url": "Tests/Console/Functional/Fixtures/Extensions/*"
         }
     },
-    "name": "mittwald/typo3-console",
+    "name": "helmhum/typo3-console",
     "type": "typo3-cms-extension",
     "description": "A reliable and powerful command line interface for TYPO3 CMS",
     "keywords": [
@@ -27,10 +27,10 @@
     },
     "authors": [
         {
-            "name": "mittwald",
-            "email": "opensource@mittwald.de",
+            "name": "Helmut Hummel",
+            "email": "info@helhum.io",
             "role": "Developer",
-            "homepage": "https://www.mittwald.de"
+            "homepage": "https://helhum.io"
         }
     ],
     "license": "GPL-2.0-or-later",
